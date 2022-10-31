@@ -10,4 +10,4 @@ import TogglePassword from 'toggle-hide-show-password/TogglePassword';
  const{ iconEye, passwordVisibility, handlePasswordVisibility}=TogglePassword()
 
 
-اولی برای تغییر آیکون چشم دومی برای تغییر نوع تایپ input هست و سومی فانکشنی هست که برای هندل کردن رویداد onclick بر روی آیکون هر المنت دیگر که برای نشان دادن رمز عبور از آن استفاده می کنید 
+اولی برای تغییر آیکون  دومی برای تغییر نوع تایپ input هست و سومی فانکشنی هست که برای هندل کردن رویداد onclick بر روی آیکون هر المنت دیگر که برای نشان دادن رمز عبور از آن استفاده می کنید 
